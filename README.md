@@ -50,3 +50,23 @@
 
 - 📍 Ahmedabad, Gujarat, India
 
+## ⭐ Featured Projects
+
+### 🌱 AgroMeds — Agriculture Management Platform
+
+Developed a full-stack agriculture management platform supporting secure authentication, product management, expert consultation, digital payments, and administrative workflows.
+
+**Key Features**
+- 🔐 OTP Authentication & Role-based Access (Admin/User)
+- 🛒 Product Catalog, Search, Filters, Wishlist & Cart
+- 💳 QR Payment & Cash on Delivery Integration
+- 📦 Order Management & Admin Dashboard
+- 👨‍🌾 Expert Consultation Module
+- 🌐 Google Translate Integration
+- 🖼️ Image Upload & Product Management
+
+**Tech Stack**
+
+PHP • MySQL • HTML • CSS • JavaScript • Bootstrap
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsalladani/AgroMeds)
