@@ -70,3 +70,11 @@ Developed a full-stack agriculture management platform supporting secure authent
 PHP • MySQL • HTML • CSS • JavaScript • Bootstrap
 
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsalladani/AgroMeds)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vatsalladani&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsalladani&theme=github-dark&hide_border=true" />
+</p>
