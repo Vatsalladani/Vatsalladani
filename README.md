@@ -34,3 +34,19 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
+
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing an **MSc in Information Technology**, with a strong focus on Software Engineering and Backend Development.
+
+- 💻 Passionate about **Backend Development** and building reliable software solutions.
+
+- 🌱 Expanding my skills in **Python, FastAPI, PostgreSQL, SQL, REST APIs, Git,** and **Data Structures & Algorithms**.
+
+- 🚀 Building practical projects to strengthen software development and problem-solving skills.
+
+- 🎯 Preparing for **Software Engineer**, **Backend Developer**, and **Python Developer** opportunities.
+
+- 📍 Ahmedabad, Gujarat, India
+
